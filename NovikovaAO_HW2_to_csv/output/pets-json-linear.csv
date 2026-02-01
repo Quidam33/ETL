@@ -1,0 +1,4 @@
+name,species,favFoods,birthYear,photo
+Purrsloud,Cat,wet food|dry food|<strong>any</strong> food,2016,https://learnwebcode.github.io/json-example/images/cat-2.jpg
+Barksalot,Dog,,2008,https://learnwebcode.github.io/json-example/images/dog-1.jpg
+Meowsalot,Cat,tuna|catnip|celery,2012,https://learnwebcode.github.io/json-example/images/cat-1.jpg
