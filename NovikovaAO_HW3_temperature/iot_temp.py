@@ -109,4 +109,7 @@ with DAG(
     task_load = PythonOperator(
         task_id="load_to_db",
         python_callable=load_to_db
+
     )
+
+    task_pctl >> task_top5 >> task_load
